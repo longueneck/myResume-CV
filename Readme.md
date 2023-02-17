@@ -1,5 +1,5 @@
-<h1 align="center">NOME DO PROJETO</h1>
-<h4><strong>Inicio do projeto:</strong> DATA AQUI </h4>
+<h1 align="center">My Resume</h1>
+<h4><strong>Designed by Kevin</strong></h4>
 
 <br />
 
@@ -7,56 +7,26 @@
 
 Para rodar o projeto você precisa antes de algumas ferramentas instaladas:
 * Visual Studio (Preferência)
-#### Alguns pacotes do NuGet como:
-* Microsoft.EntityFrameworkCore
-* Microsoft.EntityFrameworkCore.Design
-* Microsoft.EntityFrameworkCore.SqlServer
-* Microsoft.EntityFrameworkCore.Tools
 
 ## Clonando o projeto
 ```bash
-git clone https://github.com/Romulo-Queiroz/ControleDeContatosMVC.git
+git clone https://github.com/longueneck/myResume-CV.git
 ```
-
-## Dependencias para conexão com Sql Server 
-Você precisar fazer a primeira conexão com o banco de dados e para isso insira o comando no <strong>Console do Gerenciador de Pacotes:</strong> 
-```bash
-Add-Migration CriandoTabelaContatos -Context BancoContext
-```
-
-```bash
-Update-Database -Context BancoContext
-```
-
 
 # Habilidades utilizadas
 
- - **C#**
+ - HTML
  
- - **Sql Server**
+ - CSS
  
- - **Bootstrap**
+ - JavaScript
  
- - **ASP.NET**
- 
- ## Listagem Técnica:
- 
- - **Criptografia [Hash]**
-
- - **SMTP**
- 
-  ## **Usuário de teste:**
- 
- - **Login: Tech**
-
- - **Senha: 123**
- 
- - https://ssc-sistemas.azurewebsites.net/
+ - PHP
 
 # Autor
 <div align="center">
 
-| [<img src="https://github.com/Romulo-Queiroz.png?size=115" width=115><br><sub>@Romulo-Queiroz</sub>](https://github.com/Romulo-Queiroz) |
+| [<img src="https://github.com/longueneck.png?size=115" width=115><br><sub>@longueneck</sub>](https://github.com/longueneck) |
 | :-------------------------------------------------------------------------------------------------------------------------------------: |
 
 </div>
